@@ -4,16 +4,6 @@
 
 ---
 
-## 🎮 Скриншоты
-
-> Добавь свои изображения в папку `/screenshots` и обнови ссылки
-
-![Main Menu](screenshots/menu.png)
-![Gameplay](screenshots/gameplay.png)
-![Game Over](screenshots/gameover.png)
-
----
-
 ## 🚀 Возможности
 
 * Классический геймплей змейки
